@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 项目特定
+data/output/
+*.mp3
+*.wav
+*.m4a
+*.flac
+
+# 系统
+.DS_Store
+Thumbs.db 
